@@ -120,3 +120,4 @@ NoOp {
  sawtooth_parabolic_reversed_b {{"(cos((4.93480220054468*(frame*random(seed_b)+timeOffset_b)/(pi*frequency_b)) % (pi/2)) * (maxAmplitude_b-minAmplitude_b) + minAmplitude_b)*globalAmplitude_b" i}}
  addUserKnob {20 endGroup l INVISIBLE +INVISIBLE n -1}
 }
+
